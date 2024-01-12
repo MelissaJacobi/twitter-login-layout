@@ -1,5 +1,5 @@
 .main {
-  min-height: 60vh;
+  min-height: 100vh;
   margin: -10px;
 }
 
@@ -38,9 +38,6 @@
 }
 .allleftcontent {
   width: 500px;
-}
-.footer {
-  margin-top: 300px;
 }
 @media screen and (max-width: 932px) {
   .logocontainer {
