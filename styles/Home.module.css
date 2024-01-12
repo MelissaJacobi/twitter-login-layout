@@ -31,51 +31,12 @@
   margin-top: -50px;
   margin-left: -50px;
 }
-.line1 {
-  float: left;
-  width: 39%;
-  background-color: var(--darkgrey);
-  height: 0.5px;
-  border: none;
-  margin: 10px 10px;
-}
-.line2 {
-  float: right;
-  width: 39%;
-  background-color: var(--darkgrey);
-  height: 0.5px;
-  border: none;
-  margin: 10px 10px;
-}
-.or{
-  color: var(--white);
-  margin: auto;
-  text-align: center;
-}
 .formcontainer {
   width: 300px;
 }
 .allleftcontent {
   width: 500px;
 }
-.linebreak {
-  margin-right: 20px;
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-.cookies {
-  color: var(--grey);
-  font-size: 9px;
-}
-.bluecookies {
-  color: var(--blue);
-}
-.already{
-  color: var(--white);
-  font-size: 17px;
-  margin-top: 50px;
-}
-
 @media screen and (max-width: 932px) {
   .logocontainer {
     width: 100px;

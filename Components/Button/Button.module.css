@@ -5,6 +5,7 @@
     border: none;
     align-content: left;
     margin: 5px;
+    width: 90%;
 }
 .profile {
     float: left;
@@ -12,13 +13,16 @@
     padding: 0px 7px;
 }
 .signin {
-    margin: -8px 0;
+    margin: -4px 0;
     text-align: left;
     color: var(--darkgrey);
+    font-size: 11px;
 }
 .as {
     font-weight: bold;
     color: var(--darkgrey);
+    font-size:11px;
+    display: block;
 }
 .google {
     float: right;
