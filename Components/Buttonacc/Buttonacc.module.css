@@ -1,0 +1,20 @@
+.buttonacc {
+    background-color: var(--blue);
+    border-radius: 20px;
+    border: none;
+    margin: 5px;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.acc {
+    margin: 8px 0;
+    color: var(--white);
+    text-align: center;
+    font-weight: bold;
+}
+
+.buttonacc:hover {
+    background-color: var(--darkblue);
+}

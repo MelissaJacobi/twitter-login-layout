@@ -1,0 +1,28 @@
+.buttonapple {
+    background-color: var(--white);
+    border-radius: 20px;
+    border: none;
+    align-content: center;
+    margin: 4px;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.signinapple {
+    margin: -5px 0;
+    color: var(--black);
+    text-align: center;
+    font-weight: bold;
+}
+.applelogo {
+    float: left;
+    border-radius: 50%;
+    padding: 0px 10px;
+    width: 15px;
+    padding: 8px;
+}
+
+.buttonapple:hover {
+    background-color: var(--offwhite);
+}

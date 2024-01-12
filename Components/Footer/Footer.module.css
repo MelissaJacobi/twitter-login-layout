@@ -1,0 +1,19 @@
+.footer{
+    justify-content: center;
+    text-align: center;
+    color: var(--grey);
+    width: 100%;
+    display: block;
+    padding-bottom: 20px;
+}
+
+.link{
+    text-decoration: none;
+    color:var(--grey);
+    font-size: 12px;
+    padding: 10px;
+}
+.link:hover {
+    text-decoration: underline;
+}
+

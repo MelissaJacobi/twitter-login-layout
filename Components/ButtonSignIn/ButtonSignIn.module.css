@@ -1,0 +1,22 @@
+.buttonSignIn {
+    background-color:var(--black);
+    border: none;
+    border: 1px solid var(--grey);
+    border-radius: 50px;
+    margin: 5px;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 55px;
+}
+.signin {
+    margin: 8px 0;
+    color: var(--blue);
+    text-align: center;
+    font-weight: bold;
+}
+
+.buttonSignIn:hover {
+    background-color: var(--blueblack);
+}
