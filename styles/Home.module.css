@@ -1,5 +1,5 @@
 .main {
-  min-height: 50vh;
+  min-height: 60vh;
   margin: -10px;
 }
 
@@ -22,6 +22,8 @@
 .container {
   display: flex;
   padding: 100px 100px 0 100px;
+  flex-direction: row;
+  justify-content: space-between;
 }
 .logocontainer {
   width: 66%;
@@ -36,6 +38,9 @@
 }
 .allleftcontent {
   width: 500px;
+}
+.footer {
+  margin-top: 300px;
 }
 @media screen and (max-width: 932px) {
   .logocontainer {
@@ -55,6 +60,9 @@
   }
   .allleftcontent {
     width: 200px;
+  }
+  .footer {
+    margin-top: 300px;
   }
 }
 
